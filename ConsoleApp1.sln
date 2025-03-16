@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSpace_Odev", "NameSpace
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi_Odev", "HesapMakinesi_Odev\HesapMakinesi_Odev.csproj", "{513FA186-6D8B-471A-BF96-889E771E9E9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziVeDongu_Odev", "DiziVeDongu_Odev\DiziVeDongu_Odev.csproj", "{F688BDC5-4037-419D-B1BD-D67F87DA6528}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{513FA186-6D8B-471A-BF96-889E771E9E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{513FA186-6D8B-471A-BF96-889E771E9E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{513FA186-6D8B-471A-BF96-889E771E9E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F688BDC5-4037-419D-B1BD-D67F87DA6528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F688BDC5-4037-419D-B1BD-D67F87DA6528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F688BDC5-4037-419D-B1BD-D67F87DA6528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F688BDC5-4037-419D-B1BD-D67F87DA6528}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
