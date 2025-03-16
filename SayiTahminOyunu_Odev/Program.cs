@@ -4,8 +4,8 @@
 	{
 		while (true)
 		{
-			Random rand = new Random();
-			int rastgeleSayi = rand.Next(1, 101); // 1 ile 100 arasında rastgele bir sayı üretir
+			Random rnd = new Random();
+			int rastgeleSayi = rnd.Next(1, 101);
 			int tahmin = 0;
 			int tahminSayisi = 0;
 
