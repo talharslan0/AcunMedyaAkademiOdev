@@ -1,0 +1,15 @@
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\bin\Debug\net8.0\Constructor_Composition_Odev.exe
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\bin\Debug\net8.0\Constructor_Composition_Odev.deps.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\bin\Debug\net8.0\Constructor_Composition_Odev.runtimeconfig.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\bin\Debug\net8.0\Constructor_Composition_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\bin\Debug\net8.0\Constructor_Composition_Odev.pdb
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\obj\Debug\net8.0\Constructor_Composition_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\obj\Debug\net8.0\Constructor_Composition_Odev.AssemblyInfoInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\obj\Debug\net8.0\Constructor_Composition_Odev.AssemblyInfo.cs
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\obj\Debug\net8.0\Constructor_Composition_Odev.csproj.CoreCompileInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\obj\Debug\net8.0\Constructor_Composition_Odev.sourcelink.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\obj\Debug\net8.0\Constructor_Composition_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\obj\Debug\net8.0\refint\Constructor_Composition_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\obj\Debug\net8.0\Constructor_Composition_Odev.pdb
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\obj\Debug\net8.0\Constructor_Composition_Odev.genruntimeconfig.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\Constructor_Composition_Odev\obj\Debug\net8.0\ref\Constructor_Composition_Odev.dll

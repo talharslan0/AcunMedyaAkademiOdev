@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiziVeDongu_Odev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82701ecea13750ffb35b1031877313409c918535")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e05749437dda2634aec9eb29600a4a10c5801d59")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiziVeDongu_Odev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiziVeDongu_Odev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
