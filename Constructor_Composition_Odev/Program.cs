@@ -1,5 +1,6 @@
 ﻿using Constructor_Composition_Odev.Classes;
 using Constructor_Composition_Odev.Constructors;
+using static Constructor_Composition_Odev.Constructors.Generic;
 
 Marka marka = new Marka("Bmw");
 Model model = new Model("X5");

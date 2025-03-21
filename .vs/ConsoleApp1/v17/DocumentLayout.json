@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EF32E7E7-7397-46FA-96DB-80C351ED2E61}|Constructor_Composition_Odev\\Constructor_Composition_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\constructor_composition_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF32E7E7-7397-46FA-96DB-80C351ED2E61}|Constructor_Composition_Odev\\Constructor_Composition_Odev.csproj|solutionrelative:constructor_composition_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF32E7E7-7397-46FA-96DB-80C351ED2E61}|Constructor_Composition_Odev\\Constructor_Composition_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\constructor_composition_odev\\constructors\\aracalim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF32E7E7-7397-46FA-96DB-80C351ED2E61}|Constructor_Composition_Odev\\Constructor_Composition_Odev.csproj|solutionrelative:constructor_composition_odev\\constructors\\aracalim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,32 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AracAlim.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Constructor_Composition_Odev\\Constructors\\AracAlim.cs",
-              "RelativeDocumentMoniker": "Constructor_Composition_Odev\\Constructors\\AracAlim.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Constructor_Composition_Odev\\Constructors\\AracAlim.cs",
-              "RelativeToolTip": "Constructor_Composition_Odev\\Constructors\\AracAlim.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T18:58:23.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Constructor_Composition_Odev\\Program.cs",
-              "RelativeDocumentMoniker": "Constructor_Composition_Odev\\Program.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Constructor_Composition_Odev\\Program.cs",
-              "RelativeToolTip": "Constructor_Composition_Odev\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T17:01:19.275Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constructor_Composition_Odev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e05749437dda2634aec9eb29600a4a10c5801d59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5783533350126d13846b454f65b6c58b5fc6953e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constructor_Composition_Odev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constructor_Composition_Odev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
