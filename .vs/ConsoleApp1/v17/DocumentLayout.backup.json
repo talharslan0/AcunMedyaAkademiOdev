@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}|WinForm_ArabaUygulamas\u0131_Odev\\WinForm_ArabaUygulamas\u0131_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\winform_arabauygulamas\u0131_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}|WinForm_ArabaUygulamas\u0131_Odev\\WinForm_ArabaUygulamas\u0131_Odev.csproj|solutionrelative:winform_arabauygulamas\u0131_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54395D68-E1C6-4597-9210-AA7035F3A1D5}|GenericList_Odev\\GenericList_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\genericlist_odev\\generic\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395D68-E1C6-4597-9210-AA7035F3A1D5}|GenericList_Odev\\GenericList_Odev.csproj|solutionrelative:genericlist_odev\\generic\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}|WinForm_ArabaUygulamas\u0131_Odev\\WinForm_ArabaUygulamas\u0131_Odev.csproj|C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\winform_arabauygulamas\u0131_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}|WinForm_ArabaUygulamas\u0131_Odev\\WinForm_ArabaUygulamas\u0131_Odev.csproj|solutionrelative:winform_arabauygulamas\u0131_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{54395D68-E1C6-4597-9210-AA7035F3A1D5}|GenericList_Odev\\GenericList_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\genericlist_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395D68-E1C6-4597-9210-AA7035F3A1D5}|GenericList_Odev\\GenericList_Odev.csproj|solutionrelative:genericlist_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}|WinForm_ArabaUygulamas\u0131_Odev\\WinForm_ArabaUygulamas\u0131_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\winform_arabauygulamas\u0131_odev\\classes\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}|WinForm_ArabaUygulamas\u0131_Odev\\WinForm_ArabaUygulamas\u0131_Odev.csproj|solutionrelative:winform_arabauygulamas\u0131_odev\\classes\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54395D68-E1C6-4597-9210-AA7035F3A1D5}|GenericList_Odev\\GenericList_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\genericlist_odev\\generic\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395D68-E1C6-4597-9210-AA7035F3A1D5}|GenericList_Odev\\GenericList_Odev.csproj|solutionrelative:genericlist_odev\\generic\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395D68-E1C6-4597-9210-AA7035F3A1D5}|GenericList_Odev\\GenericList_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\genericlist_odev\\generic\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395D68-E1C6-4597-9210-AA7035F3A1D5}|GenericList_Odev\\GenericList_Odev.csproj|solutionrelative:genericlist_odev\\generic\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,39 +42,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Marka.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\WinForm_ArabaUygulamas\u0131_Odev\\classes\\Marka.cs",
-              "RelativeDocumentMoniker": "WinForm_ArabaUygulamas\u0131_Odev\\classes\\Marka.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\WinForm_ArabaUygulamas\u0131_Odev\\classes\\Marka.cs",
-              "RelativeToolTip": "WinForm_ArabaUygulamas\u0131_Odev\\classes\\Marka.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\GenericList_Odev\\Generic\\Model.cs",
+              "RelativeDocumentMoniker": "GenericList_Odev\\Generic\\Model.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\GenericList_Odev\\Generic\\Model.cs",
+              "RelativeToolTip": "GenericList_Odev\\Generic\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:01:01.332Z"
+              "WhenOpened": "2025-03-29T09:13:47.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "RelativeDocumentMoniker": "WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "RelativeToolTip": "WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwBoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Marka.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\GenericList_Odev\\Generic\\Marka.cs",
+              "RelativeDocumentMoniker": "GenericList_Odev\\Generic\\Marka.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\GenericList_Odev\\Generic\\Marka.cs",
+              "RelativeToolTip": "GenericList_Odev\\Generic\\Marka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:54:27.665Z",
+              "WhenOpened": "2025-03-29T09:13:42.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "RelativeDocumentMoniker": "WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs [Design]",
-              "RelativeToolTip": "WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\GenericList_Odev\\Program.cs",
+              "RelativeDocumentMoniker": "GenericList_Odev\\Program.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\GenericList_Odev\\Program.cs",
+              "RelativeToolTip": "GenericList_Odev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:52:55.038Z"
+              "WhenOpened": "2025-03-29T09:07:07.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\GenericList_Odev\\Generic\\Araba.cs",
+              "RelativeDocumentMoniker": "GenericList_Odev\\Generic\\Araba.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\GenericList_Odev\\Generic\\Araba.cs",
+              "RelativeToolTip": "GenericList_Odev\\Generic\\Araba.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBgAAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:07:03.776Z",
+              "EditorCaption": ""
             }
           ]
         }

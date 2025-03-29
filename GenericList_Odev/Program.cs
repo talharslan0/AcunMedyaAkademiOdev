@@ -1,14 +1,21 @@
 ﻿using GenericList_Odev.Generic;
 
 
-List<Araba> araba = new List<Araba>
+
+public class Program
+{
+	public static void Main()
+	{
+		List<Araba<Marka, Model>> arabas = new List<Araba<Marka, Model>>
 		{
-			new Araba { marka = "Toyota", model = "Corolla", harcananBenzin = 13, toplamMesafe = 2000 },
-			new Araba { marka = "BMW", model = "X5", harcananBenzin = 24.3, toplamMesafe = 2000 },
-			new Araba { marka = "Mercedes", model = "C200", harcananBenzin = 20.2, toplamMesafe = 2000 }
+			new Araba<Marka, Model> { Marka = new Marka { marka = "Toyota" }, Model = new Model { model = "Corolla" }, yakit = 6.5, toplamMesafe = 5000 },
+			new Araba<Marka, Model> { Marka = new Marka { marka = "BMW" }, Model = new Model { model = "X5" }, yakit = 9.0, toplamMesafe = 5000 },
+			new Araba<Marka, Model> { Marka = new Marka { marka = "Mercedes" }, Model = new Model { model = "C200" }, yakit = 8.2, toplamMesafe = 5000 }
 		};
 
-foreach (var yazdir in araba)
-{
-	Console.WriteLine($"Marka: {yazdir.marka}, Model: {yazdir.model}, 100 km'de Yaktığı Yakıt: {yazdir.harcananBenzin} litre, Toplam Yakıt Tüketimi: {yazdir.yakitTuketimi()} litre");
+		foreach (var araba in arabas)
+		{
+			araba.Yazdir();
+		}
+	}
 }

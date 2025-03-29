@@ -6,16 +6,23 @@ using System.Threading.Tasks;
 
 namespace GenericList_Odev.Generic
 {
-	public class Araba
+	public class Araba<TMarka, TModel>
 	{
-		public string marka { get; set; }
-		public string model { get; set; }
-		public double harcananBenzin { get; set; } 
+
+		public TMarka Marka { get; set; }
+		public TModel Model { get; set; }
+		public double yakit { get; set; } 
 		public double toplamMesafe { get; set; } 
 
-		public double yakitTuketimi()
+		public double toplamYakitTuketimiHesapla()
 		{
-			return (harcananBenzin * toplamMesafe) / 100;
+			return (toplamMesafe / 100) * yakit;
+		}
+
+		public void Yazdir()
+		{
+			double toplamYakitTuketimi = toplamYakitTuketimiHesapla();
+			Console.WriteLine($"Marka: {((Marka as Marka)?.marka ?? "Eksik Bilgi Var")}, Model: {((Model as Model)?.model ?? "Eksik Bilgi Var")}, 100 km'de Yaktığı Yakıt: {yakit} litre, Toplam Yakıt Tüketimi: {toplamYakitTuketimi} litre");
 		}
 	}
 }
