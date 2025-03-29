@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziVeDongu_Odev", "DiziVeD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor_Composition_Odev", "Constructor_Composition_Odev\Constructor_Composition_Odev.csproj", "{EF32E7E7-7397-46FA-96DB-80C351ED2E61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList_Odev", "GenericList_Odev\GenericList_Odev.csproj", "{54395D68-E1C6-4597-9210-AA7035F3A1D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm_ArabaUygulaması_Odev", "WinForm_ArabaUygulaması_Odev\WinForm_ArabaUygulaması_Odev.csproj", "{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{EF32E7E7-7397-46FA-96DB-80C351ED2E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF32E7E7-7397-46FA-96DB-80C351ED2E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF32E7E7-7397-46FA-96DB-80C351ED2E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54395D68-E1C6-4597-9210-AA7035F3A1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54395D68-E1C6-4597-9210-AA7035F3A1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54395D68-E1C6-4597-9210-AA7035F3A1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54395D68-E1C6-4597-9210-AA7035F3A1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

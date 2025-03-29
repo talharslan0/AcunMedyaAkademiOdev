@@ -1,0 +1,15 @@
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\bin\Debug\net8.0\GenericList_Odev.exe
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\bin\Debug\net8.0\GenericList_Odev.deps.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\bin\Debug\net8.0\GenericList_Odev.runtimeconfig.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\bin\Debug\net8.0\GenericList_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\bin\Debug\net8.0\GenericList_Odev.pdb
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\obj\Debug\net8.0\GenericList_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\obj\Debug\net8.0\GenericList_Odev.AssemblyInfoInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\obj\Debug\net8.0\GenericList_Odev.AssemblyInfo.cs
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\obj\Debug\net8.0\GenericList_Odev.csproj.CoreCompileInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\obj\Debug\net8.0\GenericList_Odev.sourcelink.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\obj\Debug\net8.0\GenericList_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\obj\Debug\net8.0\refint\GenericList_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\obj\Debug\net8.0\GenericList_Odev.pdb
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\obj\Debug\net8.0\GenericList_Odev.genruntimeconfig.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\GenericList_Odev\obj\Debug\net8.0\ref\GenericList_Odev.dll

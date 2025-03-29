@@ -1,0 +1,17 @@
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\bin\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.exe
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\bin\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.deps.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\bin\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.runtimeconfig.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\bin\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\bin\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.pdb
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.Form1.resources
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.csproj.GenerateResource.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.AssemblyInfoInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.AssemblyInfo.cs
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.csproj.CoreCompileInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.sourcelink.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\refint\WinForm_ArabaUygulaması_Odev.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.pdb
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\WinForm_ArabaUygulaması_Odev.genruntimeconfig.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\WinForm_ArabaUygulaması_Odev\obj\Debug\net8.0-windows\ref\WinForm_ArabaUygulaması_Odev.dll
