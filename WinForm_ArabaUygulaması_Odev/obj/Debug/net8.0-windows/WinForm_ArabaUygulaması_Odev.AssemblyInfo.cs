@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinForm_ArabaUygulaması_Odev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a347abb433f71134efdcea99b9230b2e448a9e02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b31d49d47fc6f0bb2db0d71ca27f02f47e512e37")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinForm_ArabaUygulaması_Odev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinForm_ArabaUygulaması_Odev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

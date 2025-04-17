@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HesapMakinesi_Odev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d45fba30e7578b60c69d9eada79c6a60eb7e23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b31d49d47fc6f0bb2db0d71ca27f02f47e512e37")]
 [assembly: System.Reflection.AssemblyProductAttribute("HesapMakinesi_Odev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HesapMakinesi_Odev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}|WinForm_ArabaUygulamas\u0131_Odev\\WinForm_ArabaUygulamas\u0131_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\winform_arabauygulamas\u0131_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}|WinForm_ArabaUygulamas\u0131_Odev\\WinForm_ArabaUygulamas\u0131_Odev.csproj|solutionrelative:winform_arabauygulamas\u0131_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}|Serialization_Deserialization_Odev\\Serialization_Deserialization_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\serialization_deserialization_odev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}|Serialization_Deserialization_Odev\\Serialization_Deserialization_Odev.csproj|solutionrelative:serialization_deserialization_odev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}|WinForm_ArabaUygulamas\u0131_Odev\\WinForm_ArabaUygulamas\u0131_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\winform_arabauygulamas\u0131_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9B6276A3-AA6C-4FF4-B1A3-ADE3B8FA05E1}|WinForm_ArabaUygulamas\u0131_Odev\\WinForm_ArabaUygulamas\u0131_Odev.csproj|solutionrelative:winform_arabauygulamas\u0131_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}|Serialization_Deserialization_Odev\\Serialization_Deserialization_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\serialization_deserialization_odev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}|Serialization_Deserialization_Odev\\Serialization_Deserialization_Odev.csproj|solutionrelative:serialization_deserialization_odev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}|Serialization_Deserialization_Odev\\Serialization_Deserialization_Odev.csproj|C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\serialization_deserialization_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}|Serialization_Deserialization_Odev\\Serialization_Deserialization_Odev.csproj|solutionrelative:serialization_deserialization_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}|Serialization_Deserialization_Odev\\Serialization_Deserialization_Odev.csproj|c:\\users\\talha\\documents\\acunmedyaakademiodev\\serialization_deserialization_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}|Serialization_Deserialization_Odev\\Serialization_Deserialization_Odev.csproj|solutionrelative:serialization_deserialization_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,26 +43,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "RelativeDocumentMoniker": "WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "RelativeToolTip": "WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAwwKEAAAAbAAAAAAAAAA==",
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Serialization_Deserialization_Odev\\Form2.cs",
+              "RelativeDocumentMoniker": "Serialization_Deserialization_Odev\\Form2.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Serialization_Deserialization_Odev\\Form2.cs",
+              "RelativeToolTip": "Serialization_Deserialization_Odev\\Form2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:48:59.456Z",
+              "WhenOpened": "2025-04-17T17:47:59.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "RelativeDocumentMoniker": "WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs",
-              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs [Design]",
-              "RelativeToolTip": "WinForm_ArabaUygulamas\u0131_Odev\\Form1.cs [Design]",
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Serialization_Deserialization_Odev\\Form2.cs",
+              "RelativeDocumentMoniker": "Serialization_Deserialization_Odev\\Form2.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Serialization_Deserialization_Odev\\Form2.cs [Design]",
+              "RelativeToolTip": "Serialization_Deserialization_Odev\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:13:07.412Z",
+              "WhenOpened": "2025-04-17T17:33:57.907Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Serialization_Deserialization_Odev\\Form1.cs",
+              "RelativeDocumentMoniker": "Serialization_Deserialization_Odev\\Form1.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Serialization_Deserialization_Odev\\Form1.cs",
+              "RelativeToolTip": "Serialization_Deserialization_Odev\\Form1.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwHAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:44:51.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Serialization_Deserialization_Odev\\Form1.cs",
+              "RelativeDocumentMoniker": "Serialization_Deserialization_Odev\\Form1.cs",
+              "ToolTip": "C:\\Users\\talha\\Documents\\AcunMedyaAkademiOdev\\Serialization_Deserialization_Odev\\Form1.cs [Design]",
+              "RelativeToolTip": "Serialization_Deserialization_Odev\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:07:46.671Z",
               "EditorCaption": " [Design]"
             }
           ]
