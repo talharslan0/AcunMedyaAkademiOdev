@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SayiTahminOyunu_Odev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b31d49d47fc6f0bb2db0d71ca27f02f47e512e37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44622ecb15ce7d0cb78cb643975d59c198d75f7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SayiTahminOyunu_Odev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SayiTahminOyunu_Odev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

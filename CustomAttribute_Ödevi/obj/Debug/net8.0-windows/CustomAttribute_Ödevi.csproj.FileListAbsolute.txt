@@ -1,0 +1,17 @@
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\bin\Debug\net8.0-windows\CustomAttribute_Ödevi.exe
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\bin\Debug\net8.0-windows\CustomAttribute_Ödevi.deps.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\bin\Debug\net8.0-windows\CustomAttribute_Ödevi.runtimeconfig.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\bin\Debug\net8.0-windows\CustomAttribute_Ödevi.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\bin\Debug\net8.0-windows\CustomAttribute_Ödevi.pdb
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\CustomAttribute_Ödevi.Form1.resources
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\CustomAttribute_Ödevi.csproj.GenerateResource.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\CustomAttribute_Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\CustomAttribute_Ödevi.AssemblyInfoInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\CustomAttribute_Ödevi.AssemblyInfo.cs
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\CustomAttribute_Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\CustomAttribute_Ödevi.sourcelink.json
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\CustomAttribute_Ödevi.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\refint\CustomAttribute_Ödevi.dll
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\CustomAttribute_Ödevi.pdb
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\CustomAttribute_Ödevi.genruntimeconfig.cache
+C:\Users\talha\Documents\AcunMedyaAkademiOdev\CustomAttribute_Ödevi\obj\Debug\net8.0-windows\ref\CustomAttribute_Ödevi.dll

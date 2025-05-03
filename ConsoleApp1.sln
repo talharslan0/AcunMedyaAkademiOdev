@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm_ArabaUygulaması_Od
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization_Deserialization_Odev", "Serialization_Deserialization_Odev\Serialization_Deserialization_Odev.csproj", "{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAttribute_Ödevi", "CustomAttribute_Ödevi\CustomAttribute_Ödevi.csproj", "{F489A7F2-E0D5-42EE-A5AB-F8A463206BBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEAD117E-47AE-419A-B821-5CE1DA8CACF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F489A7F2-E0D5-42EE-A5AB-F8A463206BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F489A7F2-E0D5-42EE-A5AB-F8A463206BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F489A7F2-E0D5-42EE-A5AB-F8A463206BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F489A7F2-E0D5-42EE-A5AB-F8A463206BBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
